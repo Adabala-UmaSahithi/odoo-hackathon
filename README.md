@@ -61,7 +61,10 @@ Data Visualization – Expenses are displayed through interactive graphs & chart
 This ensures that users have clear financial insights and can improve money management habits.
 
 🎥 Video Presentation
-▶️ Click here to watch the demo video
+
+▶️ 🔗 Functional demo link
+
+https://tinyurl.com/2u63vn99
 
 ⚙️ Tech Stack
 
@@ -103,5 +106,3 @@ https://github.com/Adabala-UmaSahithi/odoo-hackathon
 
 
 
-▶️ 🔗 Functional demo link
-https://tinyurl.com/2u63vn99

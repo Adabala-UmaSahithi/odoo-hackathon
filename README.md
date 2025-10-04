@@ -82,5 +82,5 @@ https://github.com/Adabala-UmaSahithi/odoo-hackathon
 
 
 
-Functional demo link
+▶️ 🔗 Functional demo link
 https://tinyurl.com/2u63vn99

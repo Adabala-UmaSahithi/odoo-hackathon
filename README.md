@@ -79,3 +79,8 @@ https://github.com/Adabala-UmaSahithi/odoo-hackathon
 🚧 Multi-Currency Support – For international users
 🚧 Export Reports – Download PDF/Excel expense reports
 🚧 Dark Mode – For better user experience
+
+
+
+Functional demo link
+https://tinyurl.com/2u63vn99

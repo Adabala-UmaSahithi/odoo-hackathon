@@ -5,23 +5,38 @@ Team Mentor-Aman Patel
 
 🧑‍💻 Team Members
 Uma Sahithi (Team Leader)
+
 Email: sahiadabala@gmail.com
+
 Phone: 9346344262
+
 Passing Year: 2026
+
 
 Supriya Uchinthala
+
 Email: supriyauchinthala@gmail.com
+
 Phone: 9392758298
+
 Passing Year: 2026
+
 
 Sai Akash Pydipala
+
 Email: saiakashpydipala@gmail.com
+
 Phone: 6281856728
+
 Passing Year: 2026
 
+
 Madhur Achanta
+
 Email: madhurachanta2005@gmail.com
+
 Phone: 8712279935
+
 Passing Year: 2026
 
 

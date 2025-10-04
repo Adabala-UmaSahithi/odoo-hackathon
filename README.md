@@ -77,10 +77,15 @@ Version Control: Git & GitHub
 🚀 Features
 
 ✅ Expense Management – Add, edit, and delete daily expenses
+
 ✅ Bank Statement Upload – Upload files in supported formats (CSV/Excel/Statements)
+
 ✅ Smart Processing – Transactions are parsed & automatically categorized
+
 ✅ Graphical Insights – Interactive charts and graphs for easy analysis
+
 ✅ Secure Data – Firebase ensures authentication and data security
+
 ✅ Cross-Platform Friendly – Works smoothly across devices with responsive design
 
 
